@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest test sum.test.js"
+    "test": "jest test reverseStr.test.js"
   },
   "author": "",
   "license": "ISC",
